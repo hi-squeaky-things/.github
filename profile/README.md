@@ -5,7 +5,7 @@
 > [!WARNING]
 > **Hi Squeaky Things** can happen at any time. Our _Little Squeaky Things_ products are ready to squeak, squuuueak, squeeeeeaak, squeaaaaaaaaak!
 
-We are an alternative instruments open research lab based in The Netherlands. 
+We are an ⚡ alternative instruments open research lab ⚡ based in The Netherlands. 
 What we do:
 
 ### 💡 Research
