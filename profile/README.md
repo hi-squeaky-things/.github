@@ -34,7 +34,10 @@ Our products are open-source software & hardware pieces designed to revolutioniz
 
 - [Little Squeaky Machine](https://github.com/hi-squeaky-things/little-squeaky-machine-hardware), a hardware reference platform for [Little Weirdo](https://github.com/hi-squeaky-things/little-weirdo).
 
-<img src="revision_a.jpg" alt="photo first prototype" width="50%"/>
+
+<img width="50%"  alt="Little Squeaky Machine" src="https://github.com/user-attachments/assets/14da9154-d4b3-46f5-8c7d-02f7331a932d" />
+
+
 
 
 ### 🔈 Music
