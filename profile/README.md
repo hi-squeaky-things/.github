@@ -12,9 +12,14 @@ What we do:
 
 We are researching new ways to create musical instruments to redefine the future of music.
 
+- [Little Weirdo](https://github.com/hi-squeaky-things/little-weirdo), a Rust #no-std optimized wave table synthesizer for embedded devices.
+
 ### 🎛️ Products
 
-Our products are open-source software & hardware pieces designed to revolutionize your music creation experience
+Our products are open-source software & hardware pieces designed to revolutionize your music creation experience.
+
+- [Little Squeaky Machine]([https://github.com/hi-squeaky-things/little-weirdo](https://github.com/hi-squeaky-things/little-squeaky-machine-hardware)), a hardware reference platform for [Little Weirdo](https://github.com/hi-squeaky-things/little-weirdo).
+
 
 ### 🔈 Music
 
