@@ -23,6 +23,10 @@ We are researching new ways to create musical instruments to redefine the future
 
 https://github.com/user-attachments/assets/7ee9a29f-a4da-421e-a9d5-a7aa040de527
 
+Or a Supersaw patch:
+
+https://github.com/user-attachments/assets/4a6a9207-977b-431a-a097-7cb7335283a6
+
 ### 🎛️ Products
 
 Our products are open-source software & hardware pieces designed to revolutionize your music creation experience.
